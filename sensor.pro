@@ -1,4 +1,4 @@
-update=18/02/2018 09:39:09
+update=18/02/2018 11:59:42
 version=1
 last_client=kicad
 [cvpcb]
@@ -33,3 +33,4 @@ LibName1=lib/less-smog
 LibName2=C:/Program Files/KiCad/share/kicad/library/device
 LibName3=C:/Program Files/KiCad/share/kicad/library/power
 LibName4=C:/Program Files/KiCad/share/kicad/library/conn
+LibName5=C:/Program Files/KiCad/share/kicad/library/switches
