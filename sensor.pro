@@ -1,4 +1,4 @@
-update=17/02/2018 10:23:33
+update=18/02/2018 09:39:09
 version=1
 last_client=kicad
 [cvpcb]
@@ -27,27 +27,9 @@ BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
 [eeschema]
 version=1
-LibDir=D:/OneDrive/kicad/symbols
+LibDir=
 [eeschema/libraries]
-LibName1=power
-LibName2=Connector_Generic
-LibName3=Connector_Generic_Shielded
-LibName4=Connector_Specialized
-LibName5=Device
-LibName6=Diode
-LibName7=Graphic
-LibName8=Jumper
-LibName9=LED
-LibName10=Mechanical
-LibName11=RF_WiFi
-LibName12=Sensor
-LibName13=Sensor_Gas
-LibName14=Sensor_Humidity
-LibName15=Sensor_MultiFunction
-LibName16=Sensor_Optical
-LibName17=Sensor_Pressure
-LibName18=Sensor_Temperature
-LibName19=Switch
-LibName20=Transistor_BJT
-LibName21=Transistor_FET
-LibName22=lib/less-smog
+LibName1=lib/less-smog
+LibName2=C:/Program Files/KiCad/share/kicad/library/device
+LibName3=C:/Program Files/KiCad/share/kicad/library/power
+LibName4=C:/Program Files/KiCad/share/kicad/library/conn
