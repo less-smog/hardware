@@ -1742,7 +1742,7 @@
       (net 18 "Net-(CON5-Pad7)"))
     (pad 8 thru_hole oval (at 8.75 0 90) (size 0.85 1.2) (drill 0.5) (layers *.Cu *.Mask)
       (net 19 "Net-(CON5-Pad8)"))
-    (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_PicoBlade_53048-0810_08x1.25mm_Angled.wrl
+    (model 530480810.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3428,7 +3428,7 @@
       (net 13 HTU_SDA))
     (pad 4 thru_hole oval (at 3.81 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 12 HTU_SCL))
-    (model HTU21D_module.wrl~
+    (model HTU21D_module.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
