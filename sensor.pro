@@ -1,4 +1,4 @@
-update=20/05/2018 17:44:33
+update=21/05/2018 07:03:48
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,16 +25,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.09999999999999999
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -136,3 +126,13 @@ LibName94=C:/Program Files/KiCad/share/kicad/library/xilinx
 LibName95=C:/Program Files/KiCad/share/kicad/library/zetex
 LibName96=C:/Program Files/KiCad/share/kicad/library/Zilog
 LibName97=D:/test/kicadLib/niceRLC
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=56
