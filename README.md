@@ -1,8 +1,6 @@
 # IMPORTANT NOTE
 
-This hardware project currently contains bugs, which make its' operation sub-optimal. We recommend that you wait until we release revision 2 before
-having any of this produced.
-
+The current revision (rev2) is undergoing tests - it's best to wait until the hardware has been well-tested before ordering PCBs and such.
 
 # Open Hardware Air Pollution sensor
 
